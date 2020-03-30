@@ -1,7 +1,7 @@
 ﻿![](https://javascript30.com/images/JS3-social-share.png)
  
 # Challenge started on 23th March 2020
-# Plan to complete on 21st 
+# Plan to complete on 21st April 2020
 
 # JavaScript30
 
